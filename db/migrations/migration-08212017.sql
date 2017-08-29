@@ -1,4 +1,4 @@
-\c ga_network_dev
+-- \c ga_network_dev
 DROP TABLE messages;
 DROP TABLE profile;
 DROP TABLE events;
